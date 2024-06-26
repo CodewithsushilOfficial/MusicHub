@@ -11,7 +11,7 @@ MusicHub is a web music app built using Next.js 14, App Router, and an unofficia
 
 ## Features
 
-- Browse and listen to a wide variety of music.
+- Browse and listen to a wide variety of music.  
 - Light and Dark mode for user preference.
 - Search for your favorite artists, albums, and tracks.
 - Enjoy a seamless music listening experience.
