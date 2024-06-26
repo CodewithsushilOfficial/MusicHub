@@ -32,7 +32,7 @@ MusicHub is a web music app built using Next.js 14, App Router, and an unofficia
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/r2hu1/musichub.git
+git clone https://github.com/CodewithsushilOfficial/MusicHub.git
 cd musichub
 ```
 
